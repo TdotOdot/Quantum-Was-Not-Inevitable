@@ -1,14 +1,15 @@
 ## Scientific Foundation & Citation
 
-This implementation is strictly based on the theoretical framework of **Cognitional Mechanics (CM)**. The logic, constraints, and non-commutative operators used in this repository are the direct "absolute execution commands" derived from the following paper:
+This implementation is strictly based on the theoretical framework of Cognitional Mechanics (CM).
 
-**Title:** The Logic of Post-Quantum Intelligence: Operationalizing Cognitional Mechanics (CM)  
-**Author:** T.O. / IASER Framework  
-**DOI:** [10.5281/zenodo.18071306](https://zenodo.org/records/18071306)
+- **Title:** Operationalizing Cognitional Mechanics: A GPU/TPU-Compatible Framework for Non-Commutative Parallel Computation
+- **Author:** T.O.
+- **Year:** 2025
+- **DOI:** [10.5281/zenodo.18071306](https://doi.org/10.5281/zenodo.18071306)
 
-If you use this codebase for academic research, semantic analysis, or post-quantum intelligence modeling, please cite it as follows:
-
-> T.O. (2026). *The Logic of Post-Quantum Intelligence: Operationalizing Cognitional Mechanics (CM)*. Zenodo. https://doi.org/10.5281/zenodo.18071306
+### Citation
+If you use this codebase for academic research or modeling, please cite it as:
+T.O. (2025). Operationalizing Cognitional Mechanics: A GPU/TPU-Compatible Framework for Non-Commutative Parallel Computation. Zenodo. https://doi.org/10.5281/zenodo.18071306
 
 ---
 
@@ -38,4 +39,5 @@ This implementation is based on:
 ## Usage
 Run the reference implementation to verify non-commutative state transitions:
 ```bash
+
 python cm_core.py
